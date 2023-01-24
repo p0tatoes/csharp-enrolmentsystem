@@ -1,0 +1,15 @@
+D:\Code Programming\Visual Studio\laboratory-2\laboratory-2-v3\bin\Debug\net7.0\laboratory-2-v3.exe
+D:\Code Programming\Visual Studio\laboratory-2\laboratory-2-v3\bin\Debug\net7.0\laboratory-2-v3.deps.json
+D:\Code Programming\Visual Studio\laboratory-2\laboratory-2-v3\bin\Debug\net7.0\laboratory-2-v3.runtimeconfig.json
+D:\Code Programming\Visual Studio\laboratory-2\laboratory-2-v3\bin\Debug\net7.0\laboratory-2-v3.dll
+D:\Code Programming\Visual Studio\laboratory-2\laboratory-2-v3\bin\Debug\net7.0\laboratory-2-v3.pdb
+D:\Code Programming\Visual Studio\laboratory-2\laboratory-2-v3\obj\Debug\net7.0\laboratory-2-v3.csproj.AssemblyReference.cache
+D:\Code Programming\Visual Studio\laboratory-2\laboratory-2-v3\obj\Debug\net7.0\laboratory-2-v3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code Programming\Visual Studio\laboratory-2\laboratory-2-v3\obj\Debug\net7.0\laboratory-2-v3.AssemblyInfoInputs.cache
+D:\Code Programming\Visual Studio\laboratory-2\laboratory-2-v3\obj\Debug\net7.0\laboratory-2-v3.AssemblyInfo.cs
+D:\Code Programming\Visual Studio\laboratory-2\laboratory-2-v3\obj\Debug\net7.0\laboratory-2-v3.csproj.CoreCompileInputs.cache
+D:\Code Programming\Visual Studio\laboratory-2\laboratory-2-v3\obj\Debug\net7.0\laboratory-2-v3.dll
+D:\Code Programming\Visual Studio\laboratory-2\laboratory-2-v3\obj\Debug\net7.0\refint\laboratory-2-v3.dll
+D:\Code Programming\Visual Studio\laboratory-2\laboratory-2-v3\obj\Debug\net7.0\laboratory-2-v3.pdb
+D:\Code Programming\Visual Studio\laboratory-2\laboratory-2-v3\obj\Debug\net7.0\laboratory-2-v3.genruntimeconfig.cache
+D:\Code Programming\Visual Studio\laboratory-2\laboratory-2-v3\obj\Debug\net7.0\ref\laboratory-2-v3.dll
